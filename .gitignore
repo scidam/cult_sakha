@@ -1,0 +1,12 @@
+*.pyo
+*.pyc
+__pycache__
+*.zip
+*.rar
+*.h5
+*.hdf5
+*.tiff
+*.tif
+*.png
+*.jp2
+*.xml
